@@ -109,6 +109,7 @@ const Contact = () => {
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
         <ContactDetail >
          <ContactTitle >Email : fayas5414@gmail.com</ContactTitle>
+         <ContactTitle >Mobile : +91 9894431585</ContactTitle>
        
         </ContactDetail>
        

@@ -3,6 +3,7 @@ import cackeryImg from "../images/ProjectImages/cackery.jpg"
 import postManImg from "../images/ProjectImages/postman-icon.svg"
 import posImg from "../images/ProjectImages/pos.jpg"
 import lcCare from "../images/ProjectImages/lc_care.png"
+import cakeyDashboard from "../images/ProjectImages/cakery_dashboard.jpg"
 
 export const Bio = {
   name: "Mohamed Alfayas",
@@ -119,7 +120,7 @@ export const experiences = [
     img: "",
     role: "Front-End Web Developer",
     company: "LINTCLOUD",
-    date: "Jan 2023 - Present",
+    date: "Jul 2023 - Present",
     desc: "Designed and implemented userinterfaces and functionality for various projects, including an employee attendance system, customer support platform, and monitoring dashboard, using React, Redux Toolkit, JavaScript, HTML, CSS, and jQuery.",
     skills: [
       "ReactJS",
@@ -139,7 +140,7 @@ export const experiences = [
     img: "",
     role: "Web Developer Intern",
     company: "LINTCLOUD",
-    date: " Aug 2023 - Dec 2023",
+    date: " Jan 2023 - Jun 2023",
     desc: "Followed HTML and CSS best practices to ensure accessibility and usability, while assisting in cross-browsertesting to ensure a consistent experience across multiple platforms.",
     skills: [
       "HTML",
@@ -161,7 +162,7 @@ export const education = [
     school: "PET Engineering College",
     date: "Sep 2018 - Jul 2022",
     grade: "7.7 CGPA",
-    desc: "I am completed My Bachelor's degree in Mechanical Engineering at PET Engineering College, Vallioor, Tirunelveli Dist. ",
+    desc: "I Have completed My Bachelor's degree in Mechanical Engineering at PET Engineering College, Vallioor, Tirunelveli Dist. ",
     degree: "Bachelor of Engineering - BE, Mechanical Engineering",
   },
   {
@@ -170,7 +171,7 @@ export const education = [
     school: "Sacred Heart Hr Sec School",
     date: "Jun 2017 - Apr 2018",
     grade: "65.41%",
-    desc: "I completed my class 12 high school education at Sacred Heart Hr Sec School,Panagudi, where I studied Maths with Computer Science.",
+    desc: "I Have completed my class 12 high school education at Sacred Heart Hr Sec School,Panagudi, where I studied Maths with Computer Science.",
     degree: "HSC(XII),  Computer Science Maths",
   },
   {
@@ -179,7 +180,7 @@ export const education = [
     school: "Sacred Heart Hr Sec School",
     date: "Jun 2015 - Apr 2016",
     grade: "70.4%",
-    desc: "I completed my class 10 education at Sacred Heart Hr Sec School,Panagudi.",
+    desc: "I Have completed my class 10 education at Sacred Heart Hr Sec School,Panagudi.",
     degree: "SSLC(X)",
   },
 ];
@@ -219,7 +220,6 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
    
   },
   {
@@ -227,23 +227,22 @@ export const projects = [
     title: "MagilShe.Cakery - Dashboard",
     date: "March 2024 - Oct 2024",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "MagilShe.Cakery - Dashboard is a feature-rich and elegantly crafted web application tailored for the administrative needs of cake businesses. Built with React, this dashboard serves as a powerful backend solution for managing the operations of MagilShe Cakery, ensuring seamless control and oversight of orders, customers, inventory, and more.The dashboard offers an intuitive interface and advanced functionalities that enable admins to efficiently handle the workflow. From managing cake menus, customizing cake designs, and tracking order statuses to monitoring sales and generating insightful reports, MagilShe.Cakery - Dashboard is designed to optimize business processes.",
+    image: cakeyDashboard,
     tags: [ "AWS",     
       "React Js",
       "Postgresql",
       "Django",
       "Redux",],
     category: "web app",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    
   
     
   },
   {
     id: 3,
     title: "LC CARE",
-    date: "Jan 2023 - May 2023",
+    date: "Jul 2023 - Dec 2023",
     description:
       "LC Care is a powerful and efficient Hospital Management Software designed to simplify and optimize healthcare operations. Built with JavaScript, jQuery, and Django, LC Care caters to the needs of hospitals, clinics, and other healthcare facilities by offering tools for managing patients, appointments, medical records, and staff operations. With a focus on reliability, scalability, and user-friendliness, LC Care ensures that healthcare providers can focus on delivering exceptional care.",
     image:lcCare,
@@ -260,7 +259,7 @@ export const projects = [
   {
     id: 4,
     title: "LC POS",
-    date: "Jan 2023 - May 2023",
+    date: "Jul 2023 - Nov 2023",
     description:
       "LC POS web application is a comprehensive, PHP-based solution designed to streamline retail operations, enhance efficiency, and deliver exceptional customer experiences. This system empowers businesses to handle sales, inventory, and customer management with ease, making it an essential tool for retail stores, restaurants, Medical and other service providers.",
     image: posImg,
