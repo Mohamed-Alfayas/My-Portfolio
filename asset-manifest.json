@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/My-Portfolio/static/js/main.cdb181d9.js",
+    "static/media/my-image.jpg": "/My-Portfolio/static/media/my-image.a3395236db1f041ff98d.jpg",
+    "static/media/miss-fish-website.png": "/My-Portfolio/static/media/miss-fish-website.0686e28a3f0e9b4c0333.png",
+    "static/media/miss-fish-dashboard.png": "/My-Portfolio/static/media/miss-fish-dashboard.56e649ddd1869ed2822b.png",
+    "static/media/lintHr.jpg": "/My-Portfolio/static/media/lintHr.6ea0b497cf1960f702e4.jpg",
+    "static/media/pos.jpg": "/My-Portfolio/static/media/pos.ff564f6832939c795533.jpg",
+    "static/media/lc_care.png": "/My-Portfolio/static/media/lc_care.6a13186a224ef8a45d4f.png",
+    "static/media/cackery.jpg": "/My-Portfolio/static/media/cackery.018242aff5d0ad1c85cc.jpg",
+    "static/media/cakery_dashboard.jpg": "/My-Portfolio/static/media/cakery_dashboard.04a0dc8f5c8805c295ca.jpg",
+    "static/media/vs-code.png": "/My-Portfolio/static/media/vs-code.c451d51c85d02c2a3841.png",
+    "static/media/postman-icon.svg": "/My-Portfolio/static/media/postman-icon.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/My-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.cdb181d9.js.map": "/My-Portfolio/static/js/main.cdb181d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.cdb181d9.js"
+  ]
+}
